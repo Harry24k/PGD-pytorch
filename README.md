@@ -21,3 +21,7 @@ You can add other pictures with a folder with the label name in the 'data/imagen
 - FGSM adversaries don't increase robustness for large epsilon(=8). (p.9-10)
 	- The network overfit to FGSM adversarial examples.
 - Adversarial training with PGD shows good enough defense results.(p.12-13)
+
+## Notice
+- This Repository won't be updated.
+- Please check the package of adversarial attacks in pytorch [Link](https://github.com/Harry24k/adversairal-attacks-pytorch)
