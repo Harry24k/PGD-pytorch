@@ -24,4 +24,4 @@ You can add other pictures with a folder with the label name in the 'data/imagen
 
 ## Notice
 - This Repository won't be updated.
-- Please check the package of adversarial attacks in pytorch [Link](https://github.com/Harry24k/adversairal-attacks-pytorch)
+- Please check [the package of adversarial attacks in pytorch](https://github.com/Harry24k/adversairal-attacks-pytorch)
